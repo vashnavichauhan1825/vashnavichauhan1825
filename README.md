@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on vuejs <br>🌱 I’m currently learning Typescript <br>👩🏻‍💻 I am frontend developer doing all things creative to make the web a more unique and awesome place.<br>😉Tea , dogs , skies ,plants,books , music and art are my happy places<br>⚡ I enjoy bringing a static design or idea to life and learning new technologies.<br>🚀 love to know more and discuss about space 
+🔭 I’m currently working on vuejs <br>🌱 I’m currently learning Typescript <br>👩🏻‍💻 I am frontend developer doing all things creative to make the web a more unique and awesome place.<br>😉 dogs , skies ,plants,books , music and art are my happy places<br>⚡ I enjoy bringing a static design or idea to life and learning new technologies.<br>🚀 love to know more and discuss about space 
 
 
 ## 🌐 Socials:
